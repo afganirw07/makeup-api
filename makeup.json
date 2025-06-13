@@ -9,7 +9,7 @@
   "image_link": "https://imagestoreretrieval.aspos.nl/Product/Front/190520/201823a4-e103-440c-bfd2-45b178f63211.jpg",
   "description": "Lippie Pencil adalah pensil bibir tahan lama dengan intensitas tinggi yang mudah diaplikasikan dan mencegah garis bibir melebar. Banyak dari Lippie Stix kami memiliki pasangan Lippie Pencil yang cocok, namun kamu bebas mencampur dan mencocokkan!",
   "rating": null,
-  "category": "pensil",
+  "category": "lip products",
   "product_type": "lip_liner",
   "tag_list": [
     "bebas kekejaman",
@@ -40,7 +40,7 @@
   "image_link": "https://guardianindonesia.co.id/media/catalog/product/3/0/3080993-1_1.jpg",
   "description": "Superstay Matte Ink adalah lipstik cair dengan hasil akhir matte yang tahan hingga 16 jam. Warna intens dan nyaman dipakai sepanjang hari tanpa membuat bibir kering.",
   "rating": null,
-  "category": "lipstik cair",
+  "category": "lip products",
   "product_type": "lipstick",
   "tag_list": [
     "tahan lama",
@@ -71,7 +71,7 @@
   "image_link": "https://ik.imagekit.io/powerbiz/img/k18m4Vv3gvKnX2Nw/product/16c496d1-7e54-4597-9582-0e2b0dbd8ea9/Wardah_Exclusive_Matte_Lip_Cream_09_Mauve_On___4_gr_2_cZZ72Fr4N.jpg",
   "description": "Exclusive Matte Lip Cream adalah lipstik cair dengan hasil akhir matte yang lembut, ringan di bibir, dan tahan lama. Mengandung vitamin E untuk menjaga kelembapan bibir.",
   "rating": null,
-  "category": "lipstik cair",
+  "category": "lip products",
   "product_type": "lip_cream",
   "tag_list": [
     "halal",
@@ -103,7 +103,7 @@
   "image_link": "https://www.eminacosmetics.com/cfind/source/thumb/images/poppin/cover_w506_h506_poppin-04-7.jpg",
   "description": "Creamatte Lip Cream adalah lipstik cair dengan hasil akhir matte yang lembut dan ringan. Mudah diaplikasikan dan memberikan warna intens yang tahan lama.",
   "rating": null,
-  "category": "lipstik cair",
+  "category": "lip products",
   "product_type": "lip_cream",
   "tag_list": [
     "matte",
@@ -135,7 +135,7 @@
   "image_link": "https://www.revlon.com/cdn/shop/files/309970078782_1.jpg",
   "description": "Powder Blush dari Make Over adalah perona pipi dengan tekstur halus dan pigmentasi tinggi. Mudah dibaurkan untuk tampilan pipi yang segar dan natural.",
   "rating": null,
-  "category": "perona pipi",
+  "category": "blush on",
   "product_type": "blush",
   "tag_list": [
     "natural",
@@ -167,7 +167,7 @@
   "image_link": "https://m.media-amazon.com/images/I/51j5aXg-2EL.jpg",
   "description": "Foundation bertekstur krim yang memberikan coverage tinggi namun tetap ringan di wajah. Cocok untuk semua jenis kulit dan memberikan hasil akhir yang halus serta tahan lama.",
   "rating": null,
-  "category": "alas bedak",
+  "category": "base makeup",
   "product_type": "foundation",
   "tag_list": [
     "coverage tinggi",
@@ -199,7 +199,7 @@
   "image_link": "https://static.thcdn.com/images/large/original/productimg/1600/1600/12207120-1094697090485068.jpg",
   "description": "Eyeshadow palette dengan kombinasi warna matte dan shimmer yang pigmented dan mudah dibaurkan. Cocok untuk tampilan natural hingga glamor.",
   "rating": null,
-  "category": "eyeshadow",
+  "category": "eye makeup",
   "product_type": "palette",
   "tag_list": [
     "pigmented",
@@ -231,7 +231,7 @@
   "image_link": "https://m.media-amazon.com/images/I/71LqyNHoTkL.jpg",
   "description": "Bedak tabur ringan dengan efek blur untuk menyamarkan pori dan mengunci makeup agar tahan lama tanpa membuat kulit kering.",
   "rating": null,
-  "category": "bedak tabur",
+  "category": "base makeup",
   "product_type": "loose_powder",
   "tag_list": [
     "oil control",
@@ -263,7 +263,7 @@
   "image_link": "https://eu.morphe.com/cdn/shop/products/Morphe_FE_Concealer_PDP_Open_Shade8.jpg",
   "description": "Concealer multifungsi dengan tekstur creamy yang mudah dibaurkan. Dapat digunakan untuk menyamarkan noda, lingkaran hitam, dan merapikan alis.",
   "rating": null,
-  "category": "concealer",
+  "category": "base makeup",
   "product_type": "cream_concealer",
   "tag_list": [
     "multifungsi",
@@ -295,7 +295,7 @@
   "image_link": "https://www.beautyhaul.com/assets/uploads/products/thumbs/800x800/WEBSITE-SLIDE_1.-NUDIE_BROWN_.png",
   "description": "Highlighter berbentuk krim yang memberikan efek glowing natural di pipi dan tulang wajah. Mudah dibaurkan dan cocok untuk semua jenis kulit.",
   "rating": null,
-  "category": "highlighter",
+  "category": "blush on",
   "product_type": "cream_highlighter",
   "tag_list": [
     "glowing",
@@ -318,102 +318,102 @@
   ]
 },
 {
-  "id": 10,
-  "brand": "avoskin",
-  "name": "Your Skin Bae Clay Mask",
-  "price": "89.000",
-  "price_sign": "Rp",
-  "currency": "IDR",
-  "image_link": "https://nihonmart.id/pub/media/catalog/product/cache/8a3fa81d90974d9a7299f2eff309979f/a/l/alicylic_acid_1_zinc_toner-min.jpg",
-  "description": "Masker clay yang membantu mengontrol minyak berlebih, membersihkan pori, dan membuat kulit tampak lebih cerah dan sehat.",
-  "rating": null,
-  "category": "masker wajah",
-  "product_type": "clay_mask",
-  "tag_list": [
-    "mengontrol minyak",
-    "mencerahkan",
-    "membersihkan pori"
-  ],
-  "product_colors": [
-    {
-      "hex_value": "#D8D2C6",
-      "colour_name": "Soft Clay"
-    },
-    {
-      "hex_value": "#B6ADA0",
-      "colour_name": "Earth Beige"
-    },
-    {
-      "hex_value": "#EDEAE3",
-      "colour_name": "Natural White"
-    }
-  ]
-},
-{
-  "id": 11,
-  "brand": "Somethinc",
-  "name": "Green Grape Pore Clay Mask",
-  "price": "99.000",
-  "price_sign": "Rp",
-  "currency": "IDR",
-  "image_link": "https://m.media-amazon.com/images/I/51qVG0NyWCL._AC_UF1000,1000_QL80_.jpgte",
-  "description": "Clay mask dengan ekstrak anggur hijau yang membantu mengangkat kotoran, mengecilkan pori, dan menjaga keseimbangan minyak di kulit.",
-  "rating": 4.5,
-  "category": "masker wajah",
-  "product_type": "clay_mask",
-  "tag_list": [
-    "mengontrol minyak",
-    "mengecilkan pori",
-    "membersihkan kotoran"
-  ],
-  "product_colors": [
-    {
-      "hex_value": "#A7C796",
-      "colour_name": "Fresh Green"
-    },
-    {
-      "hex_value": "#C6A88B",
-      "colour_name": "Soft Beige"
-    },
-    {
-      "hex_value": "#E1DCC5",
-      "colour_name": "Neutral Ivory"
-    }
-  ]
-},
-{
-  "id": 12,
-  "brand": "Wardah",
-  "name": "Mineral+ Clarifying Clay Mask",
-  "price": "85.000",
-  "price_sign": "Rp",
-  "currency": "IDR",
-  "image_link": "https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1573552440.png",
-  "description": "Masker clay dengan kandungan mineral alami untuk membantu membersihkan kulit secara mendalam dan menjaga kelembapan alami.",
-  "rating": 4.2,
-  "category": "masker wajah",
-  "product_type": "clay_mask",
-  "tag_list": [
-    "membersihkan kulit",
-    "menjaga kelembapan",
-    "mengontrol minyak"
-  ],
-  "product_colors": [
-    {
-      "hex_value": "#B8A495",
-      "colour_name": "Mineral Beige"
-    },
-    {
-      "hex_value": "#DAD2C2",
-      "colour_name": "Earthy Sand"
-    },
-    {
-      "hex_value": "#F4F1E9",
-      "colour_name": "Natural Ivory"
-    }
-  ]
-},
-{
+    "id": 10,
+    "brand": "Avoskin",
+    "name": "Lush Lip Tint - Berry Kiss",
+    "price": "89.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://www.beautyhaul.com/assets/uploads/products/thumbs/800x800/AVO-LPB-00247.001_6.png",
+    "description": "Lip tint dengan formula ringan dan mengandung vitamin E untuk memberikan warna segar sekaligus menjaga kelembapan bibir.",
+    "rating": 4.3,
+    "category": "lip products",
+    "product_type": "lip_tint",
+    "tag_list": [
+      "melembapkan bibir",
+      "tahan lama",
+      "hasil natural"
+    ],
+    "product_colors": [
+      {
+        "hex_value": "#9C2F44",
+        "colour_name": "Berry Kiss"
+      },
+      {
+        "hex_value": "#F28A8A",
+        "colour_name": "Rose Petal"
+      },
+      {
+        "hex_value": "#EAC8D8",
+        "colour_name": "Soft Mauve"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Somethinc",
+    "name": "Copy Paste Lip Tint - Coralicious",
+    "price": "99.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://cdn.salla.sa/DGdDlG/59f2c2bc-0f54-40a6-b89c-f5974e0e7aa0-1000x1000-mnkTOljgCznXE7dqhfmNrbUZ8NeMEPWrgPM6bOqP.jpg",
+    "description": "Lip tint dengan tekstur watery gel dan warna intens, nyaman digunakan seharian tanpa membuat bibir kering.",
+    "rating": 4.6,
+    "category": "lip products",
+    "product_type": "lip_tint",
+    "tag_list": [
+      "warna tahan lama",
+      "tidak membuat bibir kering",
+      "tekstur ringan"
+    ],
+    "product_colors": [
+      {
+        "hex_value": "#F57F76",
+        "colour_name": "Coralicious"
+      },
+      {
+        "hex_value": "#D0524F",
+        "colour_name": "Juicy Red"
+      },
+      {
+        "hex_value": "#B53D3B",
+        "colour_name": "Chili Brick"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "Wardah",
+    "name": "Colorfit Last All Day Lip Paint",
+    "price": "85.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://www.gogobli.com/produk/wardah/489999_colorfit_last_all_day_lip_paint_21_venice_muse_42_g_new.jpg",
+    "description": "Lip paint dengan formula tahan lama dan hasil akhir matte, cocok untuk tampilan bold maupun sehari-hari.",
+    "rating": 4.4,
+    "category": "lip products",
+    "product_type": "lip_paint",
+    "tag_list": [
+      "matte finish",
+      "tahan lama",
+      "warna intens"
+    ],
+    "product_colors": [
+      {
+        "hex_value": "#7C2D2D",
+        "colour_name": "Brick Flash"
+      },
+      {
+        "hex_value": "#A44552",
+        "colour_name": "Dusty Rose"
+      },
+      {
+        "hex_value": "#E08888",
+        "colour_name": "Sweet Coral"
+      }
+    ]
+  },
+  {
   "id": 13,
   "brand": "Make Over",
   "name": "Powerstay Demi-Matte Cover Cushion",
@@ -423,7 +423,7 @@
   "image_link": "https://makeover-ecommerce-bucket.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/762dbe60a076b5c627433a19b0186211c059b1af.jpg",
   "description": "Cushion dengan hasil akhir demi-matte, ringan di kulit namun memiliki daya tahan tinggi hingga 12 jam.",
   "rating": 4.5,
-  "category": "makeup wajah",
+  "category": "base makeup",
   "product_type": "cushion",
   "tag_list": [
     "long lasting",
@@ -444,8 +444,618 @@
       "colour_name": "Warm Honey"
     }
   ]
+},
+{
+  "id": 14,
+  "brand": "L'Oreal",
+  "name": "Rouge Signature Matte Lip Ink",
+  "price": "139.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://image.femaledaily.com/dyn/210/images/prod-pics/product_1565238149_119_I_Dr_800x800.png",
+  "description": "Lip ink cair ultra ringan dengan hasil akhir matte yang tahan lama. Memberikan warna intens namun tetap terasa seperti tidak memakai lipstik.",
+  "rating": 4.6,
+  "category": "lip products",
+  "product_type": "lip_ink",
+  "tag_list": [
+    "ultra ringan",
+    "tahan lama",
+    "matte"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#A81E36",
+      "colour_name": "I Am Worth It"
+    },
+    {
+      "hex_value": "#C25060",
+      "colour_name": "I Rule"
+    },
+    {
+      "hex_value": "#9A4A5B",
+      "colour_name": "I Explore"
+    }
+  ]
+},
+{
+  "id": 15,
+  "brand": "NYX",
+  "name": "Soft Matte Lip Cream",
+  "price": "120.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.beautyhaul.com/assets/uploads/products/thumbs/800x800/JDD-LCR-00015_%281%29.jpg",
+  "description": "Lip cream ikonik dengan formula creamy yang lembut, ringan dan memberikan hasil matte yang halus di bibir.",
+  "rating": 4.4,
+  "category": "lip products",
+  "product_type": "lip_cream",
+  "tag_list": [
+    "ringan",
+    "matte halus",
+    "aroma manis"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#B65C6C",
+      "colour_name": "Cannes"
+    },
+    {
+      "hex_value": "#A45E5E",
+      "colour_name": "Stockholm"
+    },
+    {
+      "hex_value": "#8A3A3A",
+      "colour_name": "Transylvania"
+    }
+  ]
+},
+{
+  "id": 16,
+  "brand": "3CE",
+  "name": "Velvet Lip Tint",
+  "price": "165.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://i.ebayimg.com/images/g/Dd0AAOSwe1BlOe3B/s-l400.jpg",
+  "description": "Lip tint velvet dengan warna yang hidup dan tekstur creamy lembut. Memberikan hasil akhir semi-matte dan nyaman digunakan seharian.",
+  "rating": 4.7,
+  "category": "lip products",
+  "product_type": "lip_tint",
+  "tag_list": [
+    "semi-matte",
+    "lembut",
+    "warna vivid"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#E64A4A",
+      "colour_name": "Daffodil"
+    },
+    {
+      "hex_value": "#C44545",
+      "colour_name": "Going Right"
+    },
+    {
+      "hex_value": "#9B3A3A",
+      "colour_name": "Best Ever"
+    }
+  ]
+},
+{
+  "id": 17,
+  "brand": "Maybelline",
+  "name": "Fit Me Matte + Poreless Foundation",
+  "price": "125.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://images.soco.id/1ba2d79e-b1be-40ae-b9b6-b749de84f377-.jpg",
+  "description": "Foundation ringan dengan hasil akhir matte dan mengurangi tampilan pori-pori. Cocok untuk kulit normal hingga berminyak.",
+  "rating": 4.7,
+  "category": "base makeup",
+  "product_type": "foundation",
+  "tag_list": [
+    "matte",
+    "menyamarkan pori",
+    "ringan"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#EAC8B1",
+      "colour_name": "120 Classic Ivory"
+    },
+    {
+      "hex_value": "#D8B094",
+      "colour_name": "128 Warm Nude"
+    },
+    {
+      "hex_value": "#BA8E74",
+      "colour_name": "228 Soft Tan"
+    }
+  ]
+},
+{
+  "id": 18,
+  "brand": "Wardah",
+  "name": "Instaperfect Mineralight Matte BB Cushion",
+  "price": "145.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.gogobli.com/produk/wardah/160165_wardah_instaperfect_mineralight_matte_bb_cushion_14_crme.jpg",
+  "description": "Cushion dengan coverage medium to high dan hasil akhir matte. Dilengkapi SPF 29 PA++ dan cocok untuk aktivitas sehari-hari.",
+  "rating": 4.5,
+  "category": "base makeup",
+  "product_type": "cushion",
+  "tag_list": [
+    "matte finish",
+    "SPF",
+    "coverage tinggi"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#EBD2C0",
+      "colour_name": "Beige"
+    },
+    {
+      "hex_value": "#D6B49C",
+      "colour_name": "Sand"
+    }
+  ]
+},
+{
+  "id": 19,
+  "brand": "Make Over",
+  "name": "Silky Smooth Translucent Powder",
+  "price": "110.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://makeover-ecommerce-bucket.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/f234ce178e90cbf7818ddd3704ad692b3dadd2f3.jpg",
+  "description": "Bedak tabur ringan yang membuat makeup tahan lama dengan hasil halus dan natural tanpa membuat kulit terlihat cakey.",
+  "rating": 4.4,
+  "category": "base makeup",
+  "product_type": "powder",
+  "tag_list": [
+    "translucent",
+    "halus",
+    "anti cakey"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#F8E9D8",
+      "colour_name": "01 Porcelain"
+    },
+    {
+      "hex_value": "#EBD4B8",
+      "colour_name": "02 Rosy"
+    }
+  ]
+},
+{
+  "id": 20,
+  "brand": "Luxcrime",
+  "name": "Blur & Cover Two Way Cake",
+  "price": "129.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.beautyhaul.com/assets/uploads/products/thumbs/800x800/Blur_Cover_Two_Way_Cake_Oil_Control-01.jpg",
+  "description": "Two way cake dengan tekstur halus, coverage tinggi, dan hasil matte natural yang tahan lama di kulit.",
+  "rating": 4.6,
+  "category": "base makeup",
+  "product_type": "two_way_cake",
+  "tag_list": [
+    "coverage tinggi",
+    "matte natural",
+    "tahan lama"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#F1D8C2",
+      "colour_name": "Light Beige"
+    },
+    {
+      "hex_value": "#DBB89E",
+      "colour_name": "Honey"
+    }
+  ]
+},
+{
+  "id": 21,
+  "brand": "Emina",
+  "name": "Bare With Me Mineral Cushion",
+  "price": "105.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.florentbeauty.com/wp-content/uploads/2018/10/Emina_Bare_With_Me_Mineral_Cushion.jpg",
+  "description": "Cushion ringan dengan hasil dewy natural yang cocok untuk remaja dan pemula. Mengandung SPF 30 PA+++ untuk perlindungan harian.",
+  "rating": 4.3,
+  "category": "base makeup",
+  "product_type": "cushion",
+  "tag_list": [
+    "dewy",
+    "natural",
+    "ringan"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#FCE2CD",
+      "colour_name": "Light"
+    },
+    {
+      "hex_value": "#DDB39F",
+      "colour_name": "Caramel"
+    }
+  ]
+},
+{
+  "id": 22,
+  "brand": "The Saem",
+  "name": "Cover Perfection Tip Concealer",
+  "price": "89.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tsm/tsm15132/y/6.jpg",
+  "description": "Concealer Korea terkenal dengan coverage tinggi namun tetap ringan dan mudah dibaurkan. Cocok untuk menutupi noda dan dark circle.",
+  "rating": 4.8,
+  "category": "base makeup",
+  "product_type": "concealer",
+  "tag_list": [
+    "high coverage",
+    "ringan",
+    "K-beauty"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#F3E1CC",
+      "colour_name": "01 Clear Beige"
+    },
+    {
+      "hex_value": "#E1C2A8",
+      "colour_name": "1.5 Natural Beige"
+    }
+  ]
+},
+{
+  "id": 23,
+  "brand": "Luxcrime",
+  "name": "Double Duty Eyeliner",
+  "price": "89.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/7331266/2022/7/4/bd104630-e003-4560-83c7-07d9d97de5c91656936102995ColorbarWomenDoubleDutyEyelinerEyeshadow-MagicalBlue00225ml1.jpg",
+  "description": "Eyeliner cair 2-in-1 dengan ujung presisi untuk winged look yang tajam dan tahan air seharian.",
+  "rating": 4.7,
+  "category": "eye makeup",
+  "product_type": "eyeliner",
+  "tag_list": [
+    "tahan air",
+    "tajam",
+    "mudah digunakan"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#000000",
+      "colour_name": "Blackest Black"
+    }
+  ]
+},
+{
+  "id": 24,
+  "brand": "Make Over",
+  "name": "Powerstay Eye Palette - Tempting Nude",
+  "price": "185.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/8/2/7/4/28274-large_default.jpg",
+  "description": "Palet eyeshadow 6 warna netral dengan hasil akhir matte dan shimmer yang pigmented dan mudah dibaur.",
+  "rating": 4.6,
+  "category": "eye makeup",
+  "product_type": "eyeshadow",
+  "tag_list": [
+    "netral",
+    "pigmented",
+    "blendable"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#BFA590",
+      "colour_name": "Taupe"
+    },
+    {
+      "hex_value": "#8B6E56",
+      "colour_name": "Warm Brown"
+    },
+    {
+      "hex_value": "#5E4A3F",
+      "colour_name": "Deep Mocha"
+    }
+  ]
+},
+{
+  "id": 25,
+  "brand": "Mizzu",
+  "name": "Perfect Wear Eyeliner Pen",
+  "price": "65.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://nihonmart.id/pub/media/catalog/product/cache/8a3fa81d90974d9a7299f2eff309979f/p/e/perfect_wear_eyeliner_-_var-min_1.png",
+  "description": "Eyeliner pen lokal dengan hasil hitam pekat, mudah digunakan untuk pemula dan tidak mudah luntur.",
+  "rating": 4.5,
+  "category": "eye makeup",
+  "product_type": "eyeliner",
+  "tag_list": [
+    "smudgeproof",
+    "intense black",
+    "pemula friendly"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#000000",
+      "colour_name": "Black"
+    }
+  ]
+},
+{
+  "id": 26,
+  "brand": "Emina",
+  "name": "Pop Rouge Pressed Eye Shadow - Nudy Brown",
+  "price": "48.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/4/7/1/8/4718-large_default.jpg",
+  "description": "Trio eyeshadow dengan warna-warna netral natural yang cocok untuk tampilan sehari-hari dan mudah dibaurkan.",
+  "rating": 4.3,
+  "category": "eye makeup",
+  "product_type": "eyeshadow",
+  "tag_list": [
+    "natural look",
+    "easy blend",
+    "beginner friendly"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#D3BFAE",
+      "colour_name": "Champagne"
+    },
+    {
+      "hex_value": "#A68B75",
+      "colour_name": "Bronze"
+    },
+    {
+      "hex_value": "#755F4B",
+      "colour_name": "Cocoa"
+    }
+  ]
+},
+  {
+    "id": 27,
+    "brand": "Somethinc",
+    "name": "Copy Paste Creamy Eyeshadow",
+    "price": "79.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://images.tokopedia.net/img/cache/700/OJWluG/2024/5/13/0febdc3f-37eb-41b6-944b-f41bd8d0fe65.jpg",
+    "description": "Cream eyeshadow dengan pigmentasi tinggi, hasil akhir metalik dan tahan lama untuk tampilan glamor.",
+    "rating": 4.5,
+    "category": "eye makeup",
+    "product_type": "eyeshadow",
+    "tag_list": ["high pigment", "creamy texture", "metallic"],
+    "product_colors": [
+      { "hex_value": "#D4AF37", "colour_name": "Gold Digger" },
+      { "hex_value": "#B76E79", "colour_name": "Rosy Dusk" }
+    ]
+  },
+  {
+    "id": 28,
+    "brand": "Focallure",
+    "name": "12 Colors Eyeshadow Palette - Sunset",
+    "price": "129.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://m.media-amazon.com/images/I/91Bi0Jw4kRS._AC_UF1000,1000_QL80_.jpg",
+    "description": "Palet eyeshadow 12 warna dengan kombinasi matte dan shimmer untuk tampilan natural hingga glam.",
+    "rating": 4.6,
+    "category": "eye makeup",
+    "product_type": "eyeshadow",
+    "tag_list": ["12 colors", "blendable", "shimmer & matte"],
+    "product_colors": [
+      { "hex_value": "#FF7F50", "colour_name": "Coral" },
+      { "hex_value": "#6A5ACD", "colour_name": "Lavender Smoke" },
+      { "hex_value": "#A0522D", "colour_name": "Bronze" }
+    ]
+  },
+  {
+    "id": 29,
+    "brand": "Make Over",
+    "name": "Powerstay Eye Palette - Uptown Girls",
+    "price": "175.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://medias.watsons.co.th/publishing/WTCTH-308227-side-zoom.jpg",
+    "description": "Palet 6 warna dengan pigmentasi tinggi dan tekstur halus, cocok untuk tampilan glam hingga natural.",
+    "rating": 4.8,
+    "category": "eye makeup",
+    "product_type": "eyeshadow",
+    "tag_list": ["high pigment", "matte & shimmer", "easy blend"],
+    "product_colors": [
+      { "hex_value": "#8B4513", "colour_name": "Mocha Brown" },
+      { "hex_value": "#C0C0C0", "colour_name": "Silver Dust" }
+    ]
+  },
+  {
+    "id": 30,
+    "brand": "Implora",
+    "name": "Eyeshadow Palette - Blooming Edition",
+    "price": "42.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://static.wixstatic.com/media/736e68_d363e74bb34148428451a1280536962e~mv2.png/v1/fill/w_520,h_504,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/736e68_d363e74bb34148428451a1280536962e~mv2.png",
+    "description": "Eyeshadow dengan kombinasi warna lembut dan cerah, cocok untuk pemula maupun profesional.",
+    "rating": 4.4,
+    "category": "eye makeup",
+    "product_type": "eyeshadow",
+    "tag_list": ["budget friendly", "easy blend", "natural color"],
+    "product_colors": [
+      { "hex_value": "#FFDAB9", "colour_name": "Peach" },
+      { "hex_value": "#DB7093", "colour_name": "Pink Bloom" }
+    ]
+  },
+  {
+    "id": 31,
+    "brand": "Wardah",
+    "name": "EyeXpert Volume Expert Mascara",
+    "price": "89.000",
+    "price_sign": "Rp",
+    "currency": "IDR",
+    "image_link": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/1/6/5/5/2/16552-large_default.jpg",
+    "description": "Mascara yang memberikan volume maksimal tanpa menggumpal, dengan formula tahan air.",
+    "rating": 4.7,
+    "category": "eye makeup",
+    "product_type": "mascara",
+    "tag_list": ["volumizing", "waterproof", "no clump"],
+    "product_colors": [
+      { "hex_value": "#1C1C1C", "colour_name": "Deep Black" }
+    ]
+  },
+  {
+  "id": 32,
+  "brand": "Make Over",
+  "name": "Multifix Matte Blusher",
+  "price": "115.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/0/8/5/9/20859-large_default.jpg",
+  "description": "Blush on cair dengan hasil akhir matte, mudah dibaurkan, dan tahan lama hingga 8 jam.",
+  "rating": 4.6,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["matte finish", "long lasting", "easy blend"],
+  "product_colors": [
+    { "hex_value": "#DC6B78", "colour_name": "Dusty Rose" }
+  ]
+},
+{
+  "id": 33,
+  "brand": "BLP Beauty",
+  "name": "Face Glow - Blush",
+  "price": "129.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://image.femaledaily.com/dyn/210/images/prod-pics/product_1688097103_watermello_800x800.jpg",
+  "description": "Blush dengan tekstur halus dan warna natural yang memberi efek wajah segar seketika.",
+  "rating": 4.7,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["natural finish", "smooth texture", "glowy look"],
+  "product_colors": [
+    { "hex_value": "#E48B8B", "colour_name": "Peach Melba" }
+  ]
+},
+{
+  "id": 34,
+  "brand": "Jacquelle",
+  "name": "Blur & Blush Soft Touch",
+  "price": "89.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.yslbeauty.co.id/dw/image/v2/BFZM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwc552a874/images/PACKSHOTS/MAKEUP/FACE_MAKEUP/POWDER/WW-51348YSL_mmb_bold_blush/3614274254341_mmbbb_shade-93_main.png",
+  "description": "Blush on dengan formula soft-focus yang menyatu sempurna di kulit, memberikan efek blur dan tampilan pipi merona alami.",
+  "rating": 4.6,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["soft focus", "natural finish", "blends well"],
+  "product_colors": [
+    {
+      "hex_value": "#FFADAD",
+      "colour_name": "Peach Pop"
+    }
+  ]
+},
+{
+  "id": 35,
+  "brand": "Somethinc",
+  "name": "Checkmatte Transferproof Cheek Tint",
+  "price": "69.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://images.meesho.com/images/products/375603212/zi9uh_512.webp",
+  "description": "Produk 2-in-1 yang bisa digunakan sebagai blush dan lip tint, tahan lama dan transferproof.",
+  "rating": 4.5,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["2in1", "transferproof", "longwear"],
+  "product_colors": [
+    { "hex_value": "#D6545B", "colour_name": "Barely Coral" }
+  ]
+},
+{
+  "id": 36,
+  "brand": "Wardah",
+  "name": "Colorfit Velvet Powder Blush",
+  "price": "49.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://cdn.chanhtuoi.com/uploads/23/06/wardah-colorfit-cream-blush_front_photo_original.jpeg",
+  "description": "Blush powder ringan dengan warna intens dan hasil akhir velvet untuk pipi merona tahan lama.",
+  "rating": 4.5,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["velvet finish", "soft texture", "buildable color"],
+  "product_colors": [
+    { "hex_value": "#F08080", "colour_name": "Rosy Pink" }
+  ]
+},
+{
+  "id": 37,
+  "brand": "Mineral Botanica",
+  "name": "Rosy Cheek Blush",
+  "price": "68.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://www.bys.com.au/wp/wp-content/uploads/2024/07/CO_BLODPK5.jpg",
+  "description": "Blush on alami dengan formula lembut dan warna yang menyatu sempurna di kulit.",
+  "rating": 4.4,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["natural look", "soft finish", "blends easily"],
+  "product_colors": [
+    { "hex_value": "#FFB6C1", "colour_name": "Pink Blossom" }
+  ]
+},
+{
+  "id": 38,
+  "brand": "Luxcrime",
+  "name": "Flush Bomb Cream Blush",
+  "price": "89.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://images.soco.id/121067c7-c204-4fd8-aac5-8b7d7ce469fb-.jpg",
+  "description": "Cream blush dengan warna vivid dan buildable, cocok untuk tampilan cerah sepanjang hari.",
+  "rating": 4.6,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["buildable", "vivid color", "glow effect"],
+  "product_colors": [
+    { "hex_value": "#E57373", "colour_name": "Sunset Coral" }
+  ]
+},
+{
+  "id": 39,
+  "brand": "Dear Me Beauty",
+  "name": "Perfect Matte Blush Coat - Multiuse",
+  "price": "109.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://images.soco.id/b9124921-cd4c-4b20-9143-f79eba064e34-.jpg",
+  "description": "Matte lip coat yang juga bisa digunakan sebagai blush dengan hasil lembut dan tidak lengket.",
+  "rating": 4.5,
+  "category": "blush on",
+  "product_type": "blush",
+  "tag_list": ["multiuse", "matte finish", "comfortable"],
+  "product_colors": [
+    { "hex_value": "#E27D60", "colour_name": "Terracotta" }
+  ]
 }
 
+  
 
 
 ]
