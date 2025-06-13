@@ -348,6 +348,70 @@
       "colour_name": "Natural White"
     }
   ]
+},
+{
+  "id": 11,
+  "brand": "Somethinc",
+  "name": "Green Grape Pore Clay Mask",
+  "price": "99.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://m.media-amazon.com/images/I/51qVG0NyWCL._AC_UF1000,1000_QL80_.jpgte",
+  "description": "Clay mask dengan ekstrak anggur hijau yang membantu mengangkat kotoran, mengecilkan pori, dan menjaga keseimbangan minyak di kulit.",
+  "rating": 4.5,
+  "category": "masker wajah",
+  "product_type": "clay_mask",
+  "tag_list": [
+    "mengontrol minyak",
+    "mengecilkan pori",
+    "membersihkan kotoran"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#A7C796",
+      "colour_name": "Fresh Green"
+    },
+    {
+      "hex_value": "#C6A88B",
+      "colour_name": "Soft Beige"
+    },
+    {
+      "hex_value": "#E1DCC5",
+      "colour_name": "Neutral Ivory"
+    }
+  ]
+},
+{
+  "id": 12,
+  "brand": "Wardah",
+  "name": "Mineral+ Clarifying Clay Mask",
+  "price": "85.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1573552440.png",
+  "description": "Masker clay dengan kandungan mineral alami untuk membantu membersihkan kulit secara mendalam dan menjaga kelembapan alami.",
+  "rating": 4.2,
+  "category": "masker wajah",
+  "product_type": "clay_mask",
+  "tag_list": [
+    "membersihkan kulit",
+    "menjaga kelembapan",
+    "mengontrol minyak"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#B8A495",
+      "colour_name": "Mineral Beige"
+    },
+    {
+      "hex_value": "#DAD2C2",
+      "colour_name": "Earthy Sand"
+    },
+    {
+      "hex_value": "#F4F1E9",
+      "colour_name": "Natural Ivory"
+    }
+  ]
 }
 
 
