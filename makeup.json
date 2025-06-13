@@ -412,7 +412,40 @@
       "colour_name": "Natural Ivory"
     }
   ]
+},
+{
+  "id": 13,
+  "brand": "Make Over",
+  "name": "Powerstay Demi-Matte Cover Cushion",
+  "price": "145.000",
+  "price_sign": "Rp",
+  "currency": "IDR",
+  "image_link": "https://makeover-ecommerce-bucket.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/762dbe60a076b5c627433a19b0186211c059b1af.jpg",
+  "description": "Cushion dengan hasil akhir demi-matte, ringan di kulit namun memiliki daya tahan tinggi hingga 12 jam.",
+  "rating": 4.5,
+  "category": "makeup wajah",
+  "product_type": "cushion",
+  "tag_list": [
+    "long lasting",
+    "demi-matte finish",
+    "covering imperfections"
+  ],
+  "product_colors": [
+    {
+      "hex_value": "#F5E2D6",
+      "colour_name": "Light Beige"
+    },
+    {
+      "hex_value": "#E2C9B9",
+      "colour_name": "Neutral Sand"
+    },
+    {
+      "hex_value": "#CBA892",
+      "colour_name": "Warm Honey"
+    }
+  ]
 }
+
 
 
 ]
